@@ -38,8 +38,9 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/ayman3000/gradio-apps.git
+cd gradio-apps
 ```
-
+Navigate to the desired app:
 Install dependencies:
 
 ```bash
